@@ -3,7 +3,7 @@
         background-color: rgba(11, 45, 69, 0.868);
         color: rgba(231, 218, 170, 0.811);
     }
-    #mainform{
+    #meterform{
         display: flex;
         justify-content: center;
         align-items: center;
@@ -17,7 +17,7 @@
         background-color:rgba(179, 245, 244, 0.854);
         color:rgba(23, 3, 60, 0.89);
     }
-    #mainform{
+    #meterform{
         display: flex;
         justify-content: center;
         align-items: center;
